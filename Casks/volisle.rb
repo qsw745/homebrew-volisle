@@ -1,8 +1,8 @@
 # 盘屿官网版的 Homebrew 安装配置，发布到 qsw745/homebrew-volisle。
 # version 与 sha256 由 scripts/release/update-homebrew-tap.py 在每次发布时改写，不要手改。
 cask "volisle" do
-  version "0.9.11"
-  sha256 "239e9de9f96ed0f1e9809ee8683632502864f10956b505b40bb9f41b785d8850"
+  version "0.9.12"
+  sha256 "b7b4c67ddf6d5b3db39dc80323aff943e3a09e6579519f567836cb5d7a504c3c"
 
   url "https://qisw.top/volisle/downloads/Volisle-#{version}-universal.dmg"
   name "Volisle"
